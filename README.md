@@ -1,5 +1,9 @@
 # Pinterestline
 
+Grab images for a given username from Pinterest. 
+
+### Version 1.0 
+
 ### Parameters
 
 * username 
